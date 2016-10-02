@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Text Listener</string>
+    
+    <string name="show_text">Enter the text below</string>
+
+    <string name="show_lang">Select the language</string>
+
+</resources>
